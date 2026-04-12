@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "City-level restaurant data for Tucson, Arizona with a population of over 542k. This dataset includes every active restaurant listing filtered by the Restaurants category group, with business profiles, review analytics, competitive rankings, and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Tucson, Arizona, US",
+  "export_job_id": "d11f0fde-e797-43d7-833a-6fff682eebe1",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 450515,
+  "location_name": "Tucson",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-tucson-arizona-us-sample-450515",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/450515/beamstation_450515_restaurants-us-az_SAMPLE_DIST.csv",
+  "sample_pct": 9.97,
+  "sample_records": 219,
+  "sample_sha256": "f044021c76b741f056a83a536a10eb3b958580c65261df59a4922195dbeb8224",
+  "sample_size_bytes": 823885,
+  "total_records": 2196,
+  "updated_at": "2026-04-09T14:24:35.453355+00:00"
+}
