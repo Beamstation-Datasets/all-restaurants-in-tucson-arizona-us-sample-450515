@@ -1,12 +1,12 @@
 {
-  "export_job_id": "f41a3536-3fec-4738-bf3d-4eb6354a2983",
+  "export_job_id": "084b4d5f-8c16-4b4d-b939-b03d7bfaa5e2",
   "id_short": 450515,
-  "published_at": "2026-04-23T19:25:50Z",
+  "published_at": "2026-04-30T19:25:36Z",
   "repo_name": "all-restaurants-in-tucson-arizona-us-sample-450515",
   "sample_asset_name": "beamstation_450515_restaurants-us-az_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/450515/beamstation_450515_restaurants-us-az_SAMPLE_DIST.csv",
-  "sample_records": 186,
-  "sample_sha256": "fc35580694e5923b46ff747ddb272ba94284f7521198e2bcdd31e992784eed5f",
-  "sample_size_bytes": 641442,
-  "total_records": 1868
+  "sample_records": 221,
+  "sample_sha256": "7acf9a02b949e34d222af3fde83fc611bb41e7ac156e95e2284645f230764f1c",
+  "sample_size_bytes": 747644,
+  "total_records": 2219
 }
