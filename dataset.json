@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "City-level restaurant data for Tucson, Arizona with a population of over 542k. This dataset includes every active restaurant listing filtered by the Restaurants category group, with business profiles, review analytics, competitive rankings, and sentiment data. Refreshed weekly.",
   "config_name": "All Restaurants in Tucson, Arizona, US",
-  "export_job_id": "f41a3536-3fec-4738-bf3d-4eb6354a2983",
+  "export_job_id": "084b4d5f-8c16-4b4d-b939-b03d7bfaa5e2",
   "github_org": "Beamstation-Datasets",
   "id_short": 450515,
   "location_name": "Tucson",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-tucson-arizona-us-sample-450515",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/450515/beamstation_450515_restaurants-us-az_SAMPLE_DIST.csv",
   "sample_pct": 9.96,
-  "sample_records": 186,
-  "sample_sha256": "fc35580694e5923b46ff747ddb272ba94284f7521198e2bcdd31e992784eed5f",
-  "sample_size_bytes": 641442,
-  "total_records": 1868,
-  "updated_at": "2026-04-23T13:37:43.404325+00:00"
+  "sample_records": 221,
+  "sample_sha256": "7acf9a02b949e34d222af3fde83fc611bb41e7ac156e95e2284645f230764f1c",
+  "sample_size_bytes": 747644,
+  "total_records": 2219,
+  "updated_at": "2026-04-30T14:11:27.813377+00:00"
 }
